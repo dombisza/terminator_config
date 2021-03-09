@@ -3,7 +3,6 @@
   handle_size = 2
   inactive_color_offset = 0.75
   smart_copy = False
-  title_font = Cantarell 10
   title_hide_sizetext = True
   title_transmit_bg_color = "#c2c2b0"
   title_transmit_fg_color = "#222222"
@@ -26,7 +25,6 @@
     background_color = "#222222"
     cursor_blink = False
     cursor_color = "#aaaaaa"
-    font = Tamzen 16
     foreground_color = "#c2c2b0"
     palette = "#2c5279:#aa4450:#719611:#87875f:#6688aa:#8f6f8f:#528b8b:#d3d3d3:#2c5279:#ff6a6a:#719611:#87875f:#6688aa:#8181a6:#528b8b:#c1cdc1"
     scrollback_lines = 10000
